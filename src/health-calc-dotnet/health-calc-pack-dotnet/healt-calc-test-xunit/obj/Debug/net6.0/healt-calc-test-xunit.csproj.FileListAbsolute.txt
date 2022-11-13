@@ -1,0 +1,6 @@
+C:\Desenvolvimento\PUC\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\healt-calc-test-xunit\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Desenvolvimento\PUC\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\healt-calc-test-xunit\obj\Debug\net6.0\healt-calc-test-xunit.csproj.AssemblyReference.cache
+C:\Desenvolvimento\PUC\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\healt-calc-test-xunit\obj\Debug\net6.0\healt-calc-test-xunit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\PUC\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\healt-calc-test-xunit\obj\Debug\net6.0\healt-calc-test-xunit.AssemblyInfoInputs.cache
+C:\Desenvolvimento\PUC\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\healt-calc-test-xunit\obj\Debug\net6.0\healt-calc-test-xunit.AssemblyInfo.cs
+C:\Desenvolvimento\PUC\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\healt-calc-test-xunit\obj\Debug\net6.0\healt-calc-test-xunit.csproj.CoreCompileInputs.cache
