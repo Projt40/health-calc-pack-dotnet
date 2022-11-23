@@ -4,7 +4,7 @@
 ## 💻 Arquitetura
 
     Como o sistema cadastra!
-<img src="docs\DER.png" alt="diagram">
+<img src="docs\DER.png" alt="Cadastro">
 
 <hr />
 
